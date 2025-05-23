@@ -1,0 +1,25 @@
+harunmenteseli-custom-signup:
+  # For more details on the format
+  # Checkout https://docs.flarum.org/extend/i18n.html#appendix-a-standard-key-format
+  admin:
+    my_cool_key: My Cool Key
+    pending_users: Pending Users
+    approve: Approve
+    first_name: First Name
+    last_name: Last Name
+    birth_date: Birth Date
+    country: Country
+    city: City
+    social_media: Social Media
+    phone: Phone
+    user_approved: User approved successfully
+    user_pending: User is pending admin approval
+  forum:
+    first_name: First Name
+    last_name: Last Name
+    birth_date: Birth Date
+    country: Country
+    city: City
+    social_media: Social Media
+    phone: Phone
+    registration_requires_approval: Registration requires admin approval
